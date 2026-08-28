@@ -4,7 +4,7 @@ An ESP32-S3 based interactive control module that simulates jet engine behavior.
 Engine RPM is controlled from a capacitive touch display, with proximity-triggered
 startup and synchronized engine audio.
 
-![Demo](docs/images/demo.jpg)
+![Demo](docs/images/demo.png)
 
 ## Features
 
